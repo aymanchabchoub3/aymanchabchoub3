@@ -33,8 +33,6 @@
   <img src="https://img.shields.io/badge/Cybersecurity-232f3e?style=flat&logo=hackthebox&logoColor=lime"/>
 </p>
 
-- **Machine Learning:** Deep Learning, Computer Vision, AI Security  
-- **Cybersecurity:** Threat Analysis, Vulnerability Detection, Secure Coding  
 
 ---
 
